@@ -40,12 +40,14 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'LambdiPet.png',
+    title: 'LambdiPet',
+    info:
+      'I built this API during the third month in the Web Development track at Lambda School. In 3 days, I was able to brainstorm with a team and create the endpoints required to make the front end app work, complete with authorization.',
+    info2:
+      'I am proud of what this project represents. It is a direct reflection of my ability to learn and implement functional code in a short period of time. It also is a display of my early documentation skills.',
+    url: 'https://lambdipet.netlify.app/',
+    repo: 'https://github.com/Build-Week-GigaPet3/BackEnd/', // if no repo, the button will not show up
   },
   {
     id: nanoid(),

@@ -18,7 +18,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'profile.png',
   paragraphOne:
     'Although I am a Junior Engineer, I have come a long way since starting this journey. By attending Lambda School and shedding a little blood, sweat, and tears (well, maybe not blood), I was equipped with the basic knowledge of what it takes to be a strong, competitive developer in this field. That knowledge coupled with my passion and skill to learn new things and learn them quickly has allowed me to expand my skill set exponentially.',
   paragraphTwo:

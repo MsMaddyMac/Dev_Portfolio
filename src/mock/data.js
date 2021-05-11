@@ -20,7 +20,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.png',
   paragraphOne:
-    'Although I am a Junior Engineer, I have come a long way since starting this journey. By attending Lambda School and shedding a little blood, sweat, and tears (well, maybe not blood), I was equipped with the basic knowledge of what it takes to be a strong, competitive developer in this field. That knowledge coupled with my passion and skill to learn new things and learn them quickly has allowed me to expand my skill set exponentially.',
+    'I have come a long way since starting this journey. By attending Lambda School and shedding a little blood, sweat, and tears (well, maybe not blood), I was equipped with the basic knowledge of what it takes to be a strong, competitive developer in this field. That knowledge coupled with my passion and skill to learn new things and learn them quickly has allowed me to expand my skill set exponentially.',
   paragraphTwo:
     'Being a people person, I enjoy building strong relationships through communicating, collaborating, listening, and planning to deliver a quality product and amazing experience, of course while having some fun! ',
   paragraphThree: 'Ever curious, I am eager to learn more, do more, and teach more.',

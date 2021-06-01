@@ -29,17 +29,17 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
-  {
-    id: nanoid(),
-    img: 'MentorMe.png',
-    title: 'MentorMe',
-    info:
-      'MentorMe was the very first marketing/landing page I ever designed and created using HTML, CSS & LESS. This project was built during my fourth week learning to become a Software Engineer. It afforded me the opportunity to work with a diverse team of people and allow our creative minds to work.',
-    info2:
-      'This little landing page will always be one of my faves because it was this project that made me fall in love with web development!',
-    url: 'https://mentor-me1.netlify.app/index.html',
-    repo: 'https://github.com/lambdabw-Mentor-Me/UserInterface', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'MentorMe.png',
+  //   title: 'MentorMe',
+  //   info:
+  //     'MentorMe was the very first marketing/landing page I ever designed and created using HTML, CSS & LESS. This project was built during my fourth week learning to become a Software Engineer. It afforded me the opportunity to work with a diverse team of people and allow our creative minds to work.',
+  //   info2:
+  //     'This little landing page will always be one of my faves because it was this project that made me fall in love with web development!',
+  //   url: 'https://mentor-me1.netlify.app/index.html',
+  //   repo: 'https://github.com/lambdabw-Mentor-Me/UserInterface', // if no repo, the button will not show up
+  // },
   {
     id: nanoid(),
     img: 'LambdiPet.png',
@@ -66,9 +66,9 @@ export const projectsData = [
     img: 'Power.png',
     title: 'Power Engineers',
     info:
-      'Power represents where I am today. This project was my first undertaking as an independent contractor after the business I worked for as a Software Engineer II closed due to COVID. Power is a 622 page app built with Gatsby and Prismic CMS. It utilizes GraphQL which is a query language I absolutely love.',
+      'Power represents where I am today. Power is built with Gatsby and Prismic CMS. It utilizes GraphQL which is a query language I absolutely love.',
     info2:
-      "My first task was swapping out an old plugin (gatsby-source-prismic-graphql) for a new plugin (gatsby-source-prismic) to enable the client to utilize Prismic's unpublished previews feature. I had the chance to dive into a code base I did not create (which comes with its own challenges) and learn Prismic CMS. I learned the true power of grit and humility through being able to push through the seemingly endless errors, admit when I needed help, and reach out to the Prismic community for support. I implement features as the client requests and squash bugs as they arise.",
+      "My first task was swapping out an old plugin (gatsby-source-prismic-graphql) for a new plugin (gatsby-source-prismic) to enable the client to utilize Prismic's unpublished previews feature. I implement features as the client requests and squash bugs as they arise.",
     url: 'https://www.powereng.com/',
     repo: '', // if no repo, the button will not show up
   },
